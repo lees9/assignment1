@@ -15,6 +15,7 @@ Biology
 Health
 Computer science
 Statistics
+Sports, especially football
 
 Programming background:
 Favorite project in CS165 was the final project. I made a game.
