@@ -16,3 +16,4 @@ Statistics
 
 Programming background:
 Favorite project in CS165 was the final project. I made a game.
+Python instruction course completed on codeacademy.
