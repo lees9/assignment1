@@ -1,21 +1,12 @@
-Name: Sang Hoon Lee
-Class: CS290 Winter 2015
-Assignment: Introduction to Git
+Name: Sang Hoon Lee (alternate person)
+Class: CS290 Winter 2015 (alternate class)
+Assignment: Introduction to Git (alternate assignment)
 
 Hobbies:
-Videogames
-Poker
-Hiking
-Basketball
-Watching TV
-Happy hours
+Movies
 
 Interests:
-Biology
-Health
-Computer science
-Statistics
-Sports, especially football
+History
 
 Programming background:
 Favorite project in CS165 was the final project. I made a game.
